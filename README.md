@@ -1,4 +1,30 @@
-# Data Science Case Study: Predicting Salaries of Indeed Job Postings 
+<br>
+<p align="center">
+   
+   <a href="">
+        <img src="https://img.shields.io/badge/-Indeed"></a>
+   <a href="">
+        <img src="https://img.shields.io/badge/Case%20Study-Machine%20Learning-orange"></a>
+   <a href="">
+        <img src="https://img.shields.io/badge/Case%20Job-Search%20Engine-yellow"></a>
+  
+  <a href="">
+        <img src="https://img.shields.io/badge/-Success%20Metrics-ff69b4"></a>
+  <a href="">
+        <img src="https://img.shields.io/badge/-Cross%20Validation-green"></a>
+  <a href="">
+        <img src="https://img.shields.io/badge/Programming-Python-blue"></a>
+  
+  <a href="">
+        <img src="https://img.shields.io/badge/-Feature%20Imprtance%20-yellowgreen"></a>
+  
+  
+  
+</p>
+<br>
+
+# Case Study: What-makes-playlist-successful
+
 
 ### Predicting Salaries of Job Applications for Job Search Engine Indeed using Machine Learning with Python Implementation
 
