@@ -21,7 +21,7 @@
 </p>
 <br>
 
-# Case Study: What-makes-playlist-successful
+# Case Study: Predicting Salaries of Job Postings Search Engine
 
 
 ### Predicting Salaries of Job Applications for Job Search Engine Indeed using Machine Learning with Python Implementation
