@@ -4,7 +4,7 @@
    <a href="">
         <img src="https://img.shields.io/badge/Case%20Study-Machine%20Learning-orange"></a>
    <a href="">
-        <img src="https://img.shields.io/badge/Product%20Job-Search%20Engine-yellow"></a>
+        <img src="https://img.shields.io/badge/Product-%20Job%20Search%20Engine-yellow"></a>
   
   <a href="">
         <img src="https://img.shields.io/badge/-Success%20Metrics-ff69b4"></a>
