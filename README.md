@@ -37,11 +37,13 @@
 - Step-by-step Training Process of Machine Learning Model 
 - Evaluating Our Machine Learning Models
 
+
 **Python Code** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Code"> here</a>
 
 **Data** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Data"> here</a>
 
 **Medium Blog Post** <a href="https://tatev-aslanyan.medium.com/data-science-case-study-predicting-salaries-of-job-postings-b1b8e2469e65"> here</a>
+
 
 
 ![figure_boxplots](https://user-images.githubusercontent.com/76843403/209078751-5201e03b-d18c-4fa3-a866-6827908432da.png)
