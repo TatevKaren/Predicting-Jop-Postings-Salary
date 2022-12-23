@@ -9,7 +9,7 @@
   <a href="">
         <img src="https://img.shields.io/badge/-Success%20Metrics-ff69b4"></a>
   <a href="">
-        <img src="https://img.shields.io/badge/-Cross%20Validation-green"></a>
+        <img src="https://img.shields.io/badge/-%20K-FoldCross%20Validation-green"></a>
   <a href="">
         <img src="https://img.shields.io/badge/Programming-Python-blue"></a>
   
