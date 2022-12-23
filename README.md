@@ -21,10 +21,10 @@
 </p>
 <br>
 
-# Case Study: Predicting Salaries of Job Postings Search Engine
+# Case Study: Predicting Salaries of Job Postings in Search Engine
 
 
-### Predicting Salaries of Job Applications for Job Search Engine Indeed using Machine Learning with Python Implementation
+#### Predicting Salaries of Job Applications for Job Search Engine Indeed using Machine Learning with Python Implementation
 
 **Why** In this case study we aim to create salary estimate feature for job search engine. This estimated salaries for new job postings can improve the job seekers experience by providing them salary information.
 
@@ -36,6 +36,12 @@
 - Feature Importance
 - Step-by-step Training Process of Machine Learning Model 
 - Evaluating Our Machine Learning Models
+
+**Python Code** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Code"> here</a>
+
+**Data** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Data"> here</a>
+
+**Medium Blog Post** <a href="https://tatev-aslanyan.medium.com/data-science-case-study-predicting-salaries-of-job-postings-b1b8e2469e65"> here</a>
 
 
 ![figure_boxplots](https://user-images.githubusercontent.com/76843403/209078751-5201e03b-d18c-4fa3-a866-6827908432da.png)
