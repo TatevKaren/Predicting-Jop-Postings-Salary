@@ -51,6 +51,7 @@
 
 ![Image 2022-12-21 at 10 25 PM](https://user-images.githubusercontent.com/76843403/209078775-01c94bb7-d1f2-4097-aa4c-22c62989ae2c.jpg)
 
+<br>
 ## Training Machine Learning Model 
 Here is the step-by-step approach for training Machine Learning Model
 
@@ -74,6 +75,5 @@ If the model is not performing well on the validation set, you may need to adjus
 
 ### Step 7: Test the final model
 Once you are satisfied with the model's performance on the validation set, you can finalize the model and evaluate it on the test set. This will give you an estimate of the model's performance on unseen data.
-
-
+<br><br>
 ![figure_FeatureImportance](https://user-images.githubusercontent.com/76843403/209078821-b0f961f6-74f8-4e63-bc08-8584cfb7b436.png)
