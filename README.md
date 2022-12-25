@@ -42,7 +42,7 @@
 
 **Data** <a href="https://github.com/TatevKaren/Predicting-Jop-Postings-Salary/tree/main/Data"> here</a>
 
-**Medium Blog Post** <a href="https://tatev-aslanyan.medium.com/data-science-case-study-predicting-salaries-of-job-postings-b1b8e2469e65"> here</a>
+**Medium Blog Post** <a href="https://medium.com/@tatev-aslanyan/data-science-case-study-predicting-salaries-of-job-postings-e1cbb4e83054"> here</a>
 
 <br><br>
 
